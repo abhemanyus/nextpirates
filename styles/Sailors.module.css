@@ -1,0 +1,30 @@
+.list {
+  padding: 2rem;
+  border-width: 4px;
+  border-style: dashed;
+  list-style-type: none;
+}
+
+.list_item {
+  padding-left: 0.5rem;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: navy;
+  transition: all 0.25s linear;
+  transform: scale(1);
+  transform-origin: left;
+  border-left: 4px solid transparent;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.list_item:hover {
+  transform: scale(1.1);
+  border-left: 4px solid aqua;
+}
+
+.list_item a {
+  text-decoration: none;
+}
