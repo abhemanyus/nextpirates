@@ -29,13 +29,14 @@ This project is to learn and experiment with server-side static generation for i
 
 ## Features
 
-- Server-side static generation. 
+- Server-side static generation with pre-fetched data from REST API. 
 - No data-fetching required on the client-side.
 - Graceful error-handling.
 - Lazy image loading
 - Component modularity
 
 ## To-DO
+
 - UI customization
 - More themes
 - Commenting
