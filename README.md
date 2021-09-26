@@ -1,7 +1,7 @@
 ## Screenshots
-![home](/screenshots/home.jpg?raw=true "HOME")
-![sailors](/screenshots/sailors.jpg?raw=true "SAILORS")
-![details](/screenshots/details.jpg?raw=true "DETAILS")
+![home](/screenshots/home.png?raw=true "HOME")
+![sailors](/screenshots/sailors.png?raw=true "SAILORS")
+![details](/screenshots/details.png?raw=true "DETAILS")
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
