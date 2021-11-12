@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className={styles.navbar}>
       <div className={styles.logo}>
-        <Image width="64px" height="64px" src="/icon-192x192.png" alt="jolly rogers icon"/>
+        <Image loader={() => "/icon-192x192.png"} width="64px" height="64px" src="/icon-192x192.png" alt="jolly rogers icon"/>
       </div>
       <ul className={styles.nav_list}>
         <li className={styles.nav_item}>
